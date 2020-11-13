@@ -1,0 +1,8 @@
+*.pyc
+build
+__pycache__/
+__pycache__
+.idea/
+.vscode/
+*.swp
+venv
